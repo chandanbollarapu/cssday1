@@ -1,0 +1,25 @@
+.main{
+width:auto;
+}
+.one{
+    width: 33%;
+    height:200px;
+    border: 1px solid red;
+    display: inline-block;
+}
+.two{
+    width: 33%;
+    height:200px;
+    border: 1px solid red;
+    display: inline-block;
+}
+.three{
+    width: 32%;
+    height:200px;
+    border: 1px solid red;
+    display: inline-block;
+}
+
+h1{
+    text-align: center;
+}

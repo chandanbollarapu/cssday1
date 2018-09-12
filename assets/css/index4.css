@@ -1,0 +1,41 @@
+.main{
+width:100%;
+
+}
+.part1{
+    width:24%;
+    height: 500px;
+    display: inline-block;
+}
+.one{
+    background-color: red;
+    height: 200px;
+}
+.two{
+    
+    background-color: gainsboro;
+    height: 300px;
+}
+
+
+.part2{
+    width:50%;
+    height: 500px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.part3{
+    width:24%;
+    height: 500px;
+    display: inline-block;
+}
+.four{
+    background-color: red;
+    height: 300px;
+}
+.five{
+    
+    background-color: gainsboro;
+    height: 200px;
+}

@@ -1,0 +1,23 @@
+.main{
+width:100%;
+    text-align: center;
+    margin: 20px;
+}
+
+.left{
+    
+    width:40%;
+    height: 500px;
+    background-color: green;
+    border: 2px dotted black;
+    display: inline-block;
+     margin: 20px;
+}
+.right{
+     width:40%;
+    height: 500px;
+    background-color: blue;
+    border: 2px dotted black;
+        display: inline-block;
+     margin: 20px;
+}
